@@ -10,10 +10,11 @@
 
 .navpills {
     
+    
 }
 
 .cardgroup {
-    display: flex;
+    display: inline-flex;
     padding: 2px;
     
     
